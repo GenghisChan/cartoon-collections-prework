@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
   array.each { |name|
-    puts name << !
+    name << !
   }
 end
 
